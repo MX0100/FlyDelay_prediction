@@ -1,0 +1,93 @@
+Date,Aircraft,Origin,Destination,Takoff,Landing,Duration,Gate Departure,Gate Arrival,Schedule_gd,Scheduled_ga,Is Weekend,Is Holiday,dep_weather,arr_weather
+11-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:05AM NST,09:31AM AST,Cancelled,7:55 AM,9:41 AM,7:55 AM,9:41 AM,0,0,Blowing Snow,Mainly Clear
+10-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:05AM NST,09:30AM AST,Cancelled,,,7:55 AM,9:41 AM,0,0,"Moderate Snow,Blowing Snow",Clear
+09-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:43AM NST,10:03AM AST,1:49,8:34 AM,10:13 AM,7:55 AM,9:41 AM,1,0,"Cloudy",Snow
+08-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:58AM NST,09:19AM AST,1:50,7:45 AM,9:25 AM,7:55 AM,9:41 AM,1,0,Mostly Cloudy,Snow
+07-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:02AM NST,09:32AM AST,1:59,7:49 AM,9:41 AM,7:55 AM,9:41 AM,0,0,"Snow Showers",Fog
+06-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,09:20AM AST,1:50,7:50 AM,9:28 AM,7:55 AM,9:41 AM,0,0,"Mainly Clear",Clear
+05-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:05AM NST,09:17AM AST,1:41,7:50 AM,9:25 AM,7:55 AM,9:41 AM,0,0,"Snow Showers","Clear"
+04-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,09:39AM AST,2:10,7:47 AM,9:46 AM,7:55 AM,9:41 AM,0,0,"Drizzle",Snow
+03-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:58AM NST,09:21AM AST,1:53,7:44 AM,9:21 AM,7:55 AM,9:41 AM,0,0,Mostly Cloudy,Cloudy
+02-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:54AM NST,09:21AM AST,1:56,7:45 AM,9:27 AM,7:55 AM,9:41 AM,1,0,"Snow Showers,Blowing Snow",Clear
+01-Feb-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:09AM NST,09:48AM AST,2:08,7:43 AM,9:53 AM,7:55 AM,9:41 AM,1,0,"Snow",Snow
+31-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:00AM NST,09:31AM AST,2:00,7:50 AM,9:41 AM,7:55 AM,9:41 AM,0,0,Blowing Snow,Clear
+30-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:56AM NST,09:16AM AST,1:49,7:44,9:22 AM,7:55 AM,9:41 AM,0,0,Cloudy,Snow
+29-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:11AM NST,09:38AM AST,1:56,8:01 AM,9:50 AM,7:55 AM,9:41 AM,0,0,Snow Showers,Cloudy
+28-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,09:27AM AST,1:58,7:46 AM,9:37 AM,7:55 AM,9:41 AM,0,0,Cloudy,Cloudy
+27-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:22AM NST,09:46AM AST,1:53,7:44 AM,9:52 AM,7:55 AM,9:41 AM,0,0,Snow,Clear
+26-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:09AM NST,09:20AM AST,1:40,7:45 AM,9:27 AM,7:55 AM,9:41 AM,1,0,Clear,Clear
+25-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:52AM NST,09:17AM AST,1:54,7:41 AM,9:22 AM,7:55 AM,9:41 AM,1,0,Mostly Cloudy,Clear
+23-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:00AM NST,09:25AM AST,1:54,7:46 AM,9:33 AM,7:55 AM,9:41 AM,0,0,Mostly Cloudy,Cloudy
+22-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:21AM NST,10:03AM AST,2:12,7:52 AM,10:10 AM,7:55 AM,9:41 AM,0,0,Snow,Snow
+21-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,09:27AM AST,1:58,7:44 AM,9:30 AM,7:55 AM,9:41 AM,0,0,"Snow Showers,Blowing Snow",Mainly Clear
+20-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:08AM NST,09:39AM AST,2:00,7:55 AM,9:44 AM,7:55 AM,9:41 AM,0,0,"Rain,Fog","Drizzle,Fog"
+19-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:12AM NST,09:29AM AST,1:47,7:50 AM,9:35 AM,7:55 AM,9:41 AM,1,0,Cloudy,Moderate Rain
+18-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:16AM NST,09:25AM AST,1:38,7:54 AM,9:33 AM,7:55 AM,9:41 AM,1,0,Mainly Clear,Mainly Clear
+17-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:16AM NST,09:27AM AST,1:40,7:51 AM,9:33 AM,7:55 AM,9:41 AM,0,0,Snow Showers,Mainly Clear
+16-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:12AM NST,09:29AM AST,1:46,7:50 AM,9:31 AM,7:55 AM,9:41 AM,0,0,Snow,Snow
+15-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:07AM NST,09:09AM AST,1:32,7:48 AM,9:15 AM,7:55 AM,9:41 AM,0,0,Snow Showers,Snow
+14-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:14AM NST,09:26AM AST,1:41,7:45 AM,9:36 AM,7:55 AM,9:41 AM,0,0,Freezing Drizzle,Cloudy
+13-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:11AM NST,09:18AM AST,1:36,7:49 AM,9:25 AM,7:55 AM,9:41 AM,0,0,Snow Showers,Cloudy
+12-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:09AM NST,09:22AM AST,1:42,7:46 AM,9:25 AM,7:55 AM,9:41 AM,1,0,Snow Showers,Snow
+11-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:10AM NST,09:24AM AST,1:43,7:50 AM,9:30 AM,7:55 AM,9:41 AM,1,0,"Drizzle,Fog",Mostly Cloudy
+10-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:14AM NST,09:20AM AST,1:35,7:53 AM,9:27 AM,7:55 AM,9:41 AM,0,0,Mostly Cloudy,"Rain,Fog"
+09-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:18AM NST,09:20AM AST,1:32,7:55 AM,9:25 AM,7:55 AM,9:41 AM,0,0,Snow,Snow
+08-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),09:33AM NST,10:38AM AST,1:35,9:11 AM,10:43 AM,7:55 AM,9:41 AM,0,0,Fog,Cloudy
+07-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:19AM NST,09:31AM AST,1:41,8:08 AM,9:41 AM,7:55 AM,9:41 AM,0,0,"Drizzle,Fog",Cloudy
+06-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:06AM NST,09:20AM AST,1:43,7:55 AM,9:28 AM,7:55 AM,9:41 AM,0,0,"Snow Showers,Fog",Cloudy
+05-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),03:10PM NST,04:24PM AST,1:44,2:56 PM,4:29 PM,7:55 AM,9:41 AM,1,0,"Rain,Fog",Snow
+04-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:26AM NST,09:41AM AST,1:44,8:05 AM,9:46 AM,7:55 AM,9:41 AM,1,0,Clear,Mainly Clear
+03-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:30AM NST,09:36AM AST,1:35,7:55 AM,9:46 AM,7:55 AM,9:41 AM,0,0,Mainly Clear,Snow
+02-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),11:55AM NST,01:06PM AST,Cancelled,,,7:55 AM,9:41 AM,0,0,Cloudy,"Rain,Fog"
+01-Jan-25,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:58AM NST,09:22AM AST,1:54,7:47 AM,9:34 AM,7:55 AM,9:41 AM,0,1,Fog,Freezing Fog
+31-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:10AM NST,09:29AM AST,1:48,7:50 AM,9:41 AM,7:55 AM,9:41 AM,0,0,"Cloudy","Drizzle,Fog"
+30-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:20AM NST,09:32AM AST,1:41,7:55 AM,9:37 AM,7:55 AM,9:41 AM,0,0,"Mostly Cloudy",Fog
+29-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:17AM NST,09:36AM AST,1:49,7:50 AM,9:46 AM,7:55 AM,9:41 AM,1,0,Snow,Freezing Fog
+28-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:15AM NST,09:28AM AST,1:43,7:52 AM,9:33 AM,7:55 AM,9:41 AM,1,0,"Freezing Drizzle,Fog",Clear
+27-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:08AM NST,09:24AM AST,1:45,7:55 AM,9:27 AM,7:55 AM,9:41 AM,0,0,"Rain,Fog",Mainly Clear
+26-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:52AM NST,10:00AM AST,1:37,8:03 AM,10:04 AM,7:55 AM,9:41 AM,0,1,"Snow",Blowing Snow
+25-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:11AM NST,09:14AM AST,1:32,7:47 AM,9:21 AM,7:55 AM,9:41 AM,0,1,Mainly Clear,Snow Grains
+24-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:27AM NST,09:48AM AST,1:51,8:04 AM,9:58 AM,7:55 AM,9:41 AM,0,0,Snow Showers,Cloudy
+23-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:01AM NST,09:09AM AST,1:37,7:49 AM,9:21 AM,7:55 AM,9:41 AM,0,0,Mostly Cloudy,Mostly Cloudy
+22-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:15AM NST,09:33AM AST,1:47,8:00 AM,9:40 AM,7:55 AM,9:41 AM,1,0,Mostly Cloudy,Snow
+21-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:28AM NST,09:56AM AST,1:58,8:12 AM,10:06 AM,7:55 AM,9:41 AM,1,0,"Moderate Rain,Fog","Fog,Blowing Snow"
+20-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:05AM NST,09:26AM AST,1:51,7:50 AM,9:32 AM,7:55 AM,9:41 AM,0,0,Mostly Cloudy,Mostly Cloudy
+19-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:05AM NST,09:27AM AST,1:51,7:45 AM,9:33 AM,7:55 AM,9:41 AM,0,0,Mostly Cloudy,"Rain,Fog"
+18-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),09:42AM NST,11:00AM AST,1:47,9:30 AM,11:13 AM,7:55 AM,9:41 AM,0,0,Rain,Clear
+17-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:08AM NST,09:30AM AST,1:52,7:48 AM,9:47 AM,7:55 AM,9:41 AM,0,0,Clear,Cloudy
+16-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:11AM NST,09:28AM AST,1:46,7:50 AM,9:33 AM,7:55 AM,9:41 AM,0,0,Mainly Clear,Clear
+15-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:26AM NST,09:30AM AST,1:34,8:15 AM,9:36 AM,7:55 AM,9:41 AM,1,0,"Mainly Clear",Clear
+14-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:08AM NST,09:34AM AST,1:55,7:55 AM,9:41 AM,7:55 AM,9:41 AM,1,0,Mostly Cloudy,Snow
+13-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,09:25AM AST,1:55,7:48 AM,9:37 AM,7:55 AM,9:41 AM,0,0,"Mostly Cloudy",Cloudy
+12-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:00AM NST,09:34AM AST,2:03,7:48 AM,9:39 AM,7:55 AM,9:41 AM,0,0,Drizzle,"Rain,Fog"
+11-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,12:17PM AST,1:44,11:03 AM,12:17 PM,7:55 AM,9:41 AM,0,0,Snow Showers,Fog
+10-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:13AM NST,09:36AM AST,1:53,7:55 AM,9:40 AM,7:55 AM,9:41 AM,0,0,"Mainly Clear",Snow
+09-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),09:23AM NST,10:47AM AST,1:53,9:10 AM,10:53 AM,7:55 AM,9:41 AM,0,0,"Moderate Rain,Fog",Mainly Clear
+08-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:11AM NST,09:31AM AST,1:49,8:00 AM,9:59 AM,7:55 AM,9:41 AM,1,0,"Mainly Clear",Mainly Clear
+07-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:25AM NST,09:43AM AST,1:47,7:48 AM,9:47 AM,7:55 AM,9:41 AM,1,0,Snow Showers,Snow
+06-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),09:55AM NST,11:32AM AST,Cancelled,,,7:55 AM,9:41 AM,0,0,"Moderate Rain,Fog",Snow Showers
+05-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),09:00AM NST,10:22AM AST,1:51,8:48 AM,10:28 AM,7:55 AM,9:41 AM,0,0,Clear,Snow
+04-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:12AM NST,09:25AM AST,1:43,7:48 AM,9:30 AM,7:55 AM,9:41 AM,0,0,"Mainly Clear",Snow
+03-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:06AM NST,09:37AM AST,2:00,7:55 AM,9:47 AM,7:55 AM,9:41 AM,0,0,Snow,Snow
+02-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:29AM NST,09:59AM AST,1:59,8:06 AM,10:05 AM,7:55 AM,9:41 AM,0,0,"Mostly Cloudy",Clear
+01-Dec-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:18AM NST,09:32AM AST,1:43,7:49 AM,9:36 AM,7:55 AM,9:41 AM,1,0,"Mainly Clear",Mainly Clear
+30-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,09:31AM AST,2:01,7:47 AM,9:43 AM,7:55 AM,9:41 AM,1,0,Cloudy,Mainly Clear
+29-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:01AM NST,09:38AM AST,2:07,7:51 AM,9:41 AM,7:55 AM,9:41 AM,0,0,Drizzle,"Drizzle,Fog"
+28-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:59AM NST,09:17AM AST,1:48,7:51 AM,9:23 AM,7:55 AM,9:41 AM,0,0,"Drizzle",Mostly Cloudy
+27-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:05AM NST,09:16AM AST,1:40,7:53 AM,9:32 AM,7:55 AM,9:41 AM,0,0,Rain Showers,"Rain,Fog"
+26-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:58AM NST,09:14AM AST,1:45,7:47 AM,9:20 AM,7:55 AM,9:41 AM,0,0,"Drizzle,Fog",Cloudy
+25-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:35AM NST,09:30AM AST,1:25,8:23 AM,9:41 AM,7:55 AM,9:41 AM,0,0,"Mostly Cloudy",Rain
+24-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:54AM NST,09:02AM AST,1:37,7:42 AM,9:11 AM,7:55 AM,9:41 AM,1,0,"Drizzle,Fog","Rain,Fog"
+23-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:48AM NST,10:03AM AST,1:44,8:32 AM,10:09 AM,7:55 AM,9:41 AM,1,0,Cloudy,"Moderate Rain,Fog"
+22-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:06AM NST,09:15AM AST,1:38,7:50 AM,9:23 AM,7:55 AM,9:41 AM,0,0,"Rain,Fog","Drizzle,Fog"
+21-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:03AM NST,09:05AM AST,1:31,7:50 AM,9:19 AM,7:55 AM,9:41 AM,0,0,"Drizzle,Fog",Cloudy
+20-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),09:37AM NST,10:33AM AST,1:25,9:25 AM,10:36 AM,7:55 AM,9:41 AM,0,0,"Rain,Fog",Cloudy
+19-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),07:56AM NST,09:12AM AST,1:45,7:45 AM,9:16 AM,7:55 AM,9:41 AM,0,0,"Drizzle,Fog",Rain
+18-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:54AM NST,12:19PM AST,3:11,8:33 AM,12:35 PM,7:55 AM,9:41 AM,0,0,"Rain,Fog",Cloudy
+17-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:09AM NST,09:25AM AST,1:45,7:50 AM,9:30 AM,7:55 AM,9:41 AM,1,0,"Rain,Fog",Drizzle
+16-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:08AM NST,09:29AM AST,1:50,7:51,9:34 AM,7:55 AM,9:41 AM,1,0,"Drizzle,Fog","Drizzle,Fog"
+15-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),10:03AM NST,11:10AM AST,1:36,9:47 AM,11:20 AM,7:55 AM,9:41 AM,0,0,"Rain,Fog",Rain
+14-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:04AM NST,09:17AM AST,1:42,7:49 AM,9:23 AM,7:55 AM,9:41 AM,0,0,"Moderate Rain,Fog",Cloudy
+13-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:09AM NST,09:31AM AST,1:51,7:54 AM,9:36 AM,7:55 AM,9:41 AM,0,0,"Rain,Fog",Cloudy
+12-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:10AM NST,09:27AM AST,1:46,7:55 AM,9:33 AM,7:55 AM,9:41 AM,0,0,"Drizzle,Fog",Fog
+10-Nov-24,DH8D,St. John's Int'l (CYYT),Halifax Int'l (CYHZ),08:02AM NST,09:16AM AST,1:44,7:50 AM,9:21 AM,7:55 AM,9:41 AM,1,0,Drizzle,Mostly Cloudy
