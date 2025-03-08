@@ -1,5 +1,6 @@
 name: tf-env
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.8
@@ -10,7 +11,7 @@ dependencies:
   - scipy
   - tensorflow=2.13.0
   - tensorflow-estimator=2.13.0
-  - tensorboard=2.13.0
+  - tensorboard
   - pip:
       - keras==2.13.1
       - protobuf==3.20.3
