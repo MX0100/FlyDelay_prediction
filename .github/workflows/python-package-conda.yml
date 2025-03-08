@@ -3,10 +3,8 @@ name: Flight Delay Prediction CI
 on: [push]
 
 jobs:
-  build-linux:
-    runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 5
+  build-windows:
+    runs-on: windows-latest
 
     steps:
     - name: Checkout repository
@@ -21,11 +19,13 @@ jobs:
         auto-activate-base: false
 
     - name: Install additional dependencies
+      shell: pwsh
       run: |
         conda activate tf-env
         pip install -r requirements.txt
 
     - name: Lint with flake8
+      shell: pwsh
       run: |
         conda activate tf-env
         conda install flake8
@@ -33,6 +33,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
     - name: Test with pytest
+      shell: pwsh
       run: |
         conda activate tf-env
         conda install pytest
