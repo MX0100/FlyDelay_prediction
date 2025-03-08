@@ -36,5 +36,5 @@ jobs:
       shell: pwsh
       run: |
         conda activate tf-env
-        conda install pytest
-        pytest
+        powershell -Command "Get-Content requirements.txt | Set-Content -Encoding UTF8 requirements_fixed.txt"
+        pip install -r requirements_fixed.txt
